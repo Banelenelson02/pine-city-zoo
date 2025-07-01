@@ -22,6 +22,30 @@ This is a multi-page website for Pine City Zoo, created using HTML and CSS. The 
 1. Download or clone this repository.  
 2. Open `index.html` in your web browser.
 
+   ## Project Screenshots
+
+### Map
+![Map](screenshots/map.jpg)
+
+### Places Menu
+![Places Menu](screenshots/places.jpg)
+
+### Inside Places
+![Inside Places](screenshots/expectations.jpg)
+
+### Animals
+![Animals](screenshots/animals.jpg)
+
+### Weather
+![Weather](screenshots/weather.jpg)
+
+### Message Area
+![Message Area](screenshots/feedback.jpg)
+
+### Message Received Area
+![Message Received](screenshots/message-received.jpg)
+
+
 ---
 
 *Project by Banele Nelson Ntuli*  
